@@ -15,3 +15,5 @@ The firmware, required for the NodeMCU, can be obtained from the same website. P
 Now, the STL files for a 3D printed case are available for this project.
 
 <img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Case/Rev.%200/pictures/2653_WiFiMod_Case.jpg" width="300" alt="C64 Wifi modem (case)">
+
+There are three types of plungers for some common tact switch heights (4.3mm, 5mm and 7mm).
