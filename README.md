@@ -13,4 +13,5 @@ The wiring follows the instruction on https://1200baud.wordpress.com/2017/03/04/
 The firmware, required for the NodeMCU, can be obtained from the same website. Please follow the setup procedure described there.
 
 Now, the STL files for a 3D printed case are available for this project.
+
 <img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Case/Rev.%200/pictures/2653_WiFiMod_Case.jpg" width="300" alt="C64 Wifi modem (case)">
