@@ -8,7 +8,7 @@ Further on, status LEDs and (in Rev. 1) a Reset switch is contained.
 
 <img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Rev.%200/pictures/2286_-_C64_WiFi_Modem_v0.JPG" width="300" alt="C64 Wifi modem">
 
-About the NodeMCU v3: There is a version, which is wider. The version that work is WeMOS NodeMCU v3, which is about 25.4mm wide. You can compare it to this picture, please. 
+About the NodeMCU v3: There is a version, which is wider. The version that work is WeMOS NodeMCU v3, which is about 25.4mm wide. You can compare it to this picture, please. The right one has the labeling of the pins parralel to the edge of the PCB. 
 
 The wiring follows the instruction on https://1200baud.wordpress.com/2017/03/04/build-your-own-9600-baud-c64-wifi-modem-for-20/ 
 
