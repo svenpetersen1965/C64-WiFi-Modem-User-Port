@@ -19,3 +19,11 @@ Now, the STL files for a 3D printed case are available for this project.
 <img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Case/Rev.%200/pictures/2653_WiFiMod_Case.jpg" width="300" alt="C64 Wifi modem (case)">
 
 There are three types of reset switch plungers for some common tact switch heights (4.3mm, 5mm and 7mm).
+
+# Current Project Status (2020-02-11)
+
+Rev. 1 works well, but only accepts the (smaller) WeMos NodeMCU v3 (approximately 48mx25mm). There is a bigger Version available from the common sales platforms, which are bigger: 31mm x 57mm and don't fit the footprint.
+
+A Revision 2 is under way (layout done, building and testing required) which accepts both sizes. 
+
+A nice blog about this project can be found here: <a href="https://medium.com/@gozdnijezek/c64-wifi-modem-user-port-by-sven-petersen-commodore-wifi-modem-21ab0eed411d">GozdniJezek: C64-WiFi-Modem-User-Port by Sven Petersen (Commodore WiFi modem)</a>
