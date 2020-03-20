@@ -25,7 +25,9 @@ Rev. 1 works well, but only accepts the (smaller) WeMos NodeMCU v3 (approximatel
 <img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Rev.%202/pictures/4156_two_NodeMCU.JPG" width="300" alt="both sizes of NodeMCU">
 Both sizes of the NodeMCU
 
+
 <img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Rev.%202/pictures/4161_-_complete_WiFi_Modem.JPG" width="300" alt="C64 Wifi modem (case)">
 WiFi Modem Rev. 2 in case
+
 
 A nice blog about this project can be found here: <a href="https://medium.com/@gozdnijezek/c64-wifi-modem-user-port-by-sven-petersen-commodore-wifi-modem-21ab0eed411d">GozdniJezek: C64-WiFi-Modem-User-Port by Sven Petersen (Commodore WiFi modem)</a>
