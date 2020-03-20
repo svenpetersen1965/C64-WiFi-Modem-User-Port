@@ -22,12 +22,12 @@ There are three types of reset switch plungers for some common tact switch heigh
 
 Rev. 1 works well, but only accepts the (smaller) WeMos NodeMCU v3 (approximately 48mx25mm). There is a bigger version available from the common sales platforms, which are bigger: 31mm x 57mm and don't fit the footprint of Rev. 1. This led to Rev. 2, which is now tested and working completely. 
 
-<img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Rev.%202/pictures/4156_two_NodeMCU.JPG" width="300" alt="both sizes of NodeMCU">
 Both sizes of the NodeMCU
+<img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Rev.%202/pictures/4156_two_NodeMCU.JPG" width="300" alt="both sizes of NodeMCU">
 
 
-<img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Rev.%202/pictures/4161_-_complete_WiFi_Modem.JPG" width="300" alt="C64 Wifi modem (case)">
 WiFi Modem Rev. 2 in case
+<img src="https://github.com/svenpetersen1965/C64-WiFi-Modem-User-Port/blob/master/Rev.%202/pictures/4161_-_complete_WiFi_Modem.JPG" width="300" alt="C64 Wifi modem (case)">
 
 
 A nice blog about this project can be found here: <a href="https://medium.com/@gozdnijezek/c64-wifi-modem-user-port-by-sven-petersen-commodore-wifi-modem-21ab0eed411d">GozdniJezek: C64-WiFi-Modem-User-Port by Sven Petersen (Commodore WiFi modem)</a>
