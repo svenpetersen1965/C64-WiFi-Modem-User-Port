@@ -33,3 +33,6 @@ WiFi Modem Rev. 2 in case
 
 
 A nice blog about this project can be found here: <a href="https://medium.com/@gozdnijezek/c64-wifi-modem-user-port-by-sven-petersen-commodore-wifi-modem-21ab0eed411d">GozdniJezek: C64-WiFi-Modem-User-Port by Sven Petersen (Commodore WiFi modem)</a>
+
+# Recommended Screws
+For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981). 
