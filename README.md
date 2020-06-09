@@ -36,3 +36,6 @@ A nice blog about this project can be found here: <a href="https://medium.com/@g
 
 # Recommended Screws
 For the case, I have used 2.9mm x 9.5mm (self taping) screws for sheet metal (C 2,9x9,5H, DIN 7981). 
+
+# Calculation of the Component prices
+The prices of the components was summed up. The total costs without the 3D printed case and any shipping fees is 16.19€ (May 2020). This might differ, depending on the source of the parts the Node MCU v3 can be obtained from non-domestic sources for less.
